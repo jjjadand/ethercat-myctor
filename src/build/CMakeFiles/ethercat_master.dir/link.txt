@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ethercat_master.dir/main.cpp.o CMakeFiles/ethercat_master.dir/MTDeviceController.cpp.o -o ethercat_master  -Wl,-rpath,/usr/local/ethercat/lib /usr/local/ethercat/lib/libethercat.so -lpthread -lrt
