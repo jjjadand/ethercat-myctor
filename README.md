@@ -1,6 +1,6 @@
 
 ```
-cd build
+cd src/build
 cmake ..
 make
 ```
